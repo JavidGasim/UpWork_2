@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpWorkUI.Server", "UpWorkUI\UpWorkUI.Server\UpWorkUI.Server.csproj", "{41385C3A-C8CB-4EAC-B327-ED53CEBFBCCF}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "upworkui.client", "UpWorkUI\upworkui.client\upworkui.client.esproj", "{FD36787A-B5EA-4B82-B562-944751501904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41385C3A-C8CB-4EAC-B327-ED53CEBFBCCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41385C3A-C8CB-4EAC-B327-ED53CEBFBCCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41385C3A-C8CB-4EAC-B327-ED53CEBFBCCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41385C3A-C8CB-4EAC-B327-ED53CEBFBCCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD36787A-B5EA-4B82-B562-944751501904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD36787A-B5EA-4B82-B562-944751501904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD36787A-B5EA-4B82-B562-944751501904}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FD36787A-B5EA-4B82-B562-944751501904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD36787A-B5EA-4B82-B562-944751501904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD36787A-B5EA-4B82-B562-944751501904}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C104129-180A-4A33-B8EC-A71FDC703D55}
+	EndGlobalSection
+EndGlobal
